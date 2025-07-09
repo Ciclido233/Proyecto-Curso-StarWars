@@ -33,11 +33,17 @@ Tecnologías Utilizadas 💻
 Estructura del Proyecto 📂
 
 src/
+
 ├── Principal.java          - Punto de entrada del programa
+
 ├── Pelicula.java           - Modelo de datos (record)
+
 ├── ConsultaPelicula.java   - Lógica de conexión con SWAPI
+
 └── GeneradorDeArchivo.java - Generador de archivos JSON
+
 lib/
+
 └── gson-2.10.1.jar         - Librería Gson (manejo de JSON)
 
 Ejecutar ▶️
